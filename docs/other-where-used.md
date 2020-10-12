@@ -20,6 +20,7 @@ order: 50
 
 ### Consulting and Partner
 * [abat AG](https://www.abat.de/)
+* [Brandeis Consulting](https://www.brandeis.de/)
 * Computerservice Wolf
 * [CQSE](https://www.cqse.eu/)
 * [Discovery Consulting](https://www.discoveryconsulting.com.au)
